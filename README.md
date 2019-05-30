@@ -1,5 +1,5 @@
 # Safari Sketch Library
-Sketch library for Safari UI
+Sketch library for Safari UI by [Brent Caswell](https://brentcas.com/).
 
 In the library, I include examples using Sketch’s desktop artboard presets: 1024px and 1440px. Using artboard presets is [helpful when creating prototypes](https://www.sketch.com/docs/prototyping/fixed-elements) in Sketch, so I tend to stick with those. The symbols are resizable, so you can use them with any screen size you’d like. Be sure to update the “macOS/Safari Toolbar” symbol with your URL.
 

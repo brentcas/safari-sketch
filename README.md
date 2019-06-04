@@ -5,15 +5,28 @@ In the library, I include examples using Sketch’s desktop artboard presets: 10
 
 Here’s how to setup the symbols:
 
-- 🔄 macOS/Menu Bar
+Aqua:
+
+- 🔄 macOS/Menu Bar/Aqua
 - 📂 Safari
-	- 🔄 macOS/Safari Toolbar
-	- 📂 macOS/Window Frame - Detach to Mask
+	- 🔄 macOS/Safari Toolbar/Aqua
+		- Website URL
+	- 📂 macOS/Window Frame - Detach to Mask/Aqua
 		- Put your design here
 		- ⬆️ Mask
 - 🔄 macOS/Wallpaper/1024px
 
-I’d like to continue expanding this library to support iOS and watchOS Safari elements, in addition to light and dark appearances as websites begin to use the [dark mode media query](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
+Dark Aqua:
+
+- 🔄 macOS/Menu Bar/Dark Aqua
+- 📂 Safari
+	- 🔄 macOS/macOS/Window Rim Highlight 🔒
+	- 🔄 macOS/Safari Toolbar/Dark Aqua
+		- Website URL
+	- 📂 macOS/Window Frame - Detach to Mask/Dark Aqua
+		- Put your design here
+		- ⬆️ Mask
+- 🔄 macOS/Wallpaper/1024px
 
 Additional resources you might find useful:
 
